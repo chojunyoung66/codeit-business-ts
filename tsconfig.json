@@ -26,6 +26,7 @@
     "rootDir": "src",
     "outDir": "dist",
     "sourceMap": true,
+    "types": ["node"],
     "typeRoots": ["src/shared/types", "node_modules/@types"]
   },
   "include": ["src"],
